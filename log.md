@@ -1,4 +1,4 @@
 
-minor cleanup
-6BBwdUgH3SgL26YqGlz04vtk6GsC7V
-2017-05-17T18:49:49Z
+update notes
+QzG4hPAWtQtNaRH854zDU73EvIgSU4
+2017-07-24T23:13:01Z
